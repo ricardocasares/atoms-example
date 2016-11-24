@@ -1,0 +1,17 @@
+{
+  "name": "atoms-example",
+  "version": "1.0.0",
+  "description": "Example project built using gulp-atoms",
+  "author": "Ricardo Casares",
+  "license": "GPLv3",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-atom-bundle": "^1.0.2",
+    "gulp-atom-clean": "^1.0.1",
+    "gulp-atom-copy": "^1.0.0",
+    "gulp-atom-sass": "^1.0.0",
+    "gulp-atom-serve": "^1.0.1",
+    "gulp-atoms": "^1.0.2",
+    "run-sequence": "^1.2.2"
+  }
+}
