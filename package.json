@@ -10,8 +10,8 @@
     "gulp-atom-clean": "^1.0.1",
     "gulp-atom-copy": "^1.0.0",
     "gulp-atom-sass": "^1.0.0",
-    "gulp-atom-serve": "^1.0.1",
-    "gulp-atoms": "^1.0.2",
+    "gulp-atom-serve": "^1.0.3",
+    "gulp-atoms": "^1.0.3",
     "run-sequence": "^1.2.2"
   }
 }
