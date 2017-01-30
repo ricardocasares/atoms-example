@@ -1,5 +1,7 @@
 # atoms-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ricardocasares/atoms-example.svg)](https://greenkeeper.io/)
+
 This is an example of a project built using `gulp-atoms`
 
 ## Install
