@@ -12,6 +12,6 @@
     "gulp-atom-sass": "^1.0.0",
     "gulp-atom-serve": "^1.0.3",
     "gulp-atoms": "^1.0.3",
-    "run-sequence": "^1.2.2"
+    "run-sequence": "^2.2.1"
   }
 }
